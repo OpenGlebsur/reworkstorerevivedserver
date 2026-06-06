@@ -1,0 +1,19 @@
+{
+    "displayname": "HP games", 
+    "productType": "app", 
+    "category": "Games",
+    "publisher": "HP",
+    "copyright": "© 2013 HP. All rights reserved.",
+    "description": "Provides immediate access to thousands of PC games for the casual, enthusiast and social gamer. You can browse all the hottest games. Most games have free sessions and all games can easily be played from your PC. An internet connection is required for some games including those you would like to download. May work on windows RT",
+    "mainStars": "2",
+    "ratingNumber": "2.9",
+    "ratingsCount": "768",
+    "size": "21.1 MB",
+    "ageRating": "Everyone", 
+    "imgUrl": "https://rwstoremasterserver.vercel.app/data/images/hpgamesicon.png",
+    "pageimg1": "https://rwstoremasterserver.vercel.app/data/images/hpgamesscreen1.png", 
+    "pageimg2": "https://rwstoremasterserver.vercel.app/data/images/hpgamesscreen2.png", 
+    "pageimg3": "https://rwstoremasterserver.vercel.app/data/images/hpgamesscreen3.png", 
+    "downloadUri": "https://github.com/ReworkW8/RwStoreMasterServerAppx/releases/download/appx/hpgames.appx" 
+}
+

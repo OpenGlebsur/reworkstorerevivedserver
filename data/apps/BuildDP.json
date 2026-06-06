@@ -1,0 +1,18 @@
+{
+    "displayname": "Build 2011",
+    "productType": "App", 
+    "category": "Beta Apps",
+    "publisher": "Microsoft", 
+    "copyright": "© 2011 Microsoft. All rights reserved.",
+    "description": "Witch build you can see betas of windows 8",
+    "mainStars": "4", 
+    "ratingNumber": "4.3", 
+    "ratingsCount": "651",
+    "size": "7.25mb", 
+    "ageRating": "+3", 
+    "imgUrl": "https://rwstoremasterserver.vercel.app/data/images/Build.png", 
+    "pageimg1": "", 
+    "pageimg2": "",
+    "pageimg3": "",
+    "downloadUri": "https://rwstoremasterserver.vercel.app/data/appxs/build_test1.appx" 
+}

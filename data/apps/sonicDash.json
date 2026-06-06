@@ -1,0 +1,24 @@
+{
+    "displayname" : "Sonic Dash",
+    "productType" : "app",
+    "category" : "Games",
+    "publisher": "SEGA Networks Inc",
+    "copyright": "© 2013 SEGA Networks Inc. All rights reserved.",
+    "description": "How far can the world’s fastest hedgehog run? Experience the high-speed thrills of Sonic Dash, the premier endless runner featuring SEGA’s iconic mascot. Specifically optimized for Windows 8, this game brings the stunning 3D environments of the Sonic universe to your desktop, laptop, and tablet. Dash, jump, and spin your way through breathtaking 3D environments in a quest to set the ultimate high score.",
+    "mainStars": "3",
+    "ratingNumber": "3.2",
+    "ratingsCount": "114",
+    "size": "56.0 MB",
+    "ageRating": "Everyone",
+    "imgUrl" : "https://rwstoremasterserver.vercel.app/data/images/sonicDash.png",
+    "pageimg1": "https://rwstoremasterserver.vercel.app/data/images/sonicDashimg1.PNG",
+    "pageimg2": "https://rwstoremasterserver.vercel.app/data/images/sonicDashimg2.PNG",
+    "pageimg3": "https://rwstoremasterserver.vercel.app/data/images/sonicDashimg3.PNG",
+    "downloadUri" : "https://github.com/ReworkW8/RwStoreMasterServerAppx/releases/download/appx/SegaNetworksInc.56538047DFC80_3.6.4.0_x86__as33fap47kd3c.appx"
+
+}
+
+
+
+
+

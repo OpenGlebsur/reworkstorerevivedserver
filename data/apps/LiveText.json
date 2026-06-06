@@ -1,0 +1,18 @@
+{
+    "displayname": "LiveText",
+    "productType": "app", 
+    "category": "Productivity",
+    "publisher": "Bloom", 
+    "copyright": "© 2026 Bloom. All rights reserved.",
+    "description": "Live Text is a quote-text app that you can customize and supports Windows 8.1",
+    "mainStars": "4", 
+    "ratingNumber": "4.3", 
+    "ratingsCount": "651",
+    "size": "605kb", 
+    "ageRating": "+3", 
+    "imgUrl": "https://github.com/ReworkW8/RwStoreMasterServer/blob/main/data/images/LiveText.png?raw=true", 
+    "pageimg1": "https://github.com/ReworkW8/RwStoreMasterServer/blob/main/data/images/LiveText1.png?raw=true", 
+    "pageimg2": "https://github.com/ReworkW8/RwStoreMasterServer/blob/main/data/images/LiveText2.png?raw=true",
+    "pageimg3": "https://github.com/ReworkW8/RwStoreMasterServer/blob/main/data/images/LiveText3.png?raw=true",
+    "downloadUri": "https://github.com/ReworkW8/RwStoreMasterServerAppx/releases/download/appx/Live.Text.-.Windows.8.1_1.0.0.0_AnyCPU.appx" 
+}

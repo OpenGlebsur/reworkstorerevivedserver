@@ -1,0 +1,28 @@
+{
+    "displayname" : "Amazon",
+    "productType" : "app",
+    "category" : "Productivity",
+    "publisher": "Amazon Inc",
+    "copyright": "© 2015 Amazon Inc. All rights reserved.",
+    "description": "The world’s largest store, now built for your Start Screen. The Amazon app for Windows 8 brings the ultimate shopping experience to your fingertips. Built from the ground up to be fast, fluid, and touch-optimized, it transforms the way you browse and buy. Whether you’re on a Surface tablet or a traditional PC, the Amazon app makes it easier than ever to find exactly what you're looking for.",
+    "mainStars": "2",
+    "ratingNumber": "2.8",
+    "ratingsCount": "29",
+    "size": "175 KB",
+    "ageRating": "Everyone",
+    "imgUrl" : "https://rwstoremasterserver.vercel.app/data/images/amazon.png",
+    "pageimg1": "https://rwstoremasterserver.vercel.app/data/images/amazonimg1.PNG",
+    "pageimg2": "https://rwstoremasterserver.vercel.app/data/images/amazonimg2.PNG",
+    "pageimg3": "https://rwstoremasterserver.vercel.app/data/images/amazonimg3.PNG",
+    "downloadUri" : "https://rwstoremasterserver.vercel.app/data/appxs/Amazon.com.Amazon_2015.709.2021.4530_neutral_~_343d40qqvtj1t.appx"
+
+}
+
+
+
+
+
+
+
+
+

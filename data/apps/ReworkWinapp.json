@@ -1,0 +1,20 @@
+{
+    "displayname": "Rework Windows App", 
+    "productType": "app", 
+    "category": "Rework", 
+    "publisher": "Rework", 
+    "copyright": "© 2026 Rework. All rights reserved.", 
+    "description": "Here you can download a desktop app for the Rework webside. it isnt a metro app!!! and it supports windows 7 and up. no windows rt support!",
+    "mainStars": "5", 
+    "ratingNumber": "5.0",
+    "ratingsCount": "262", 
+    "size": "192 MB", 
+    "ageRating": "Everyone", 
+    "imgUrl": "https://rwstoremasterserver.vercel.app/data/images/ReworkNewLogoDCServer.png", 
+    "pageimg1": "https://rwstoremasterserver.vercel.app/data/images/reworkwinappimg1.PNG", 
+    "pageimg2": "https://rwstoremasterserver.vercel.app/data/images/reworkwinappimg2.PNG", 
+    "pageimg3": "https://rwstoremasterserver.vercel.app/data/images/reworkwinappimg3.png", 
+    "downloadUri": "https://github.com/ReworkW8/RwStoreMasterServerAppx/releases/download/appx/ReworkSetup.exe" 
+}
+
+

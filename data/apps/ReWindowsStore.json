@@ -1,0 +1,20 @@
+{
+    "displayname": "ReWindowsStore", 
+    "productType": "app", 
+    "category": "Productivity", 
+    "publisher": "OpenGlebsur", 
+    "copyright": "© 2026 OpenGlebsur. All rights reserved.", 
+    "description": "A shoping mall with apps from the Rework-Store and from the fucking 8Store!", 
+    "mainStars": "2", 
+    "ratingNumber": "2.8", 
+    "ratingsCount": "207", 
+    "size": "302 KB", 
+    "ageRating": "Everyone", 
+    "imgUrl": "https://rwstoremasterserver.vercel.app/data/images/ReWindowsStore.png", 
+    "pageimg1": "https://rwstoremasterserver.vercel.app/data/images/ReWindowsStoreimg1.png", 
+    "pageimg2": "https://rwstoremasterserver.vercel.app/data/images/ReWindowsStoreimg2.png", 
+    "pageimg3": "https://rwstoremasterserver.vercel.app/data/images/ReWindowsStoreimg3.png", 
+    "downloadUri": "https://github.com/ReworkW8/RwStoreMasterServerAppx/releases/download/appx/WinStore_2.3.0.3_AnyCPU.1.appx" 
+}
+
+

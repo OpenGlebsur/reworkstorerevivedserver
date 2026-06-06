@@ -1,0 +1,26 @@
+{
+    "displayname" : "Microsoft Minesweeper",
+    "productType" : "game",
+    "category" : "Games",
+    "publisher": "Microsoft Corporation",
+    "copyright": "© 2012 Microsoft Corporation. All rights reserved.",
+    "description": "The world’s most iconic puzzle game has evolved Microsoft Minesweeper for Windows 8 takes the legendary gameplay you know and love and transforms it into a modern, immersive experience. With updated graphics, new game modes, and full integration with your Xbox account, the hunt for mines has never been more exciting.",
+    "mainStars": "4",
+    "ratingNumber": "4.1",
+    "ratingsCount": "53",
+    "size": "98.1 MB",
+    "ageRating": "Everyone",
+    "imgUrl" : "https://rwstoremasterserver.vercel.app/data/images/msMinesweeper.png",
+    "pageimg1": "https://rwstoremasterserver.vercel.app/data/images/msMinesweeperimg1.png",
+    "pageimg2": "https://rwstoremasterserver.vercel.app/data/images/msMinesweeperimg2.png",
+    "pageimg3": "hhttps://rwstoremasterserver.vercel.app/data/images/msMinesweeperimg3.png",
+    "downloadUri" : "https://github.com/ReworkW8/RwStoreMasterServerAppx/releases/download/appx/Microsoft.MicrosoftMinesweeper_2.4.1408.2503_x86__8wekyb3d8bbwe.appx"
+
+}
+
+
+
+
+
+
+

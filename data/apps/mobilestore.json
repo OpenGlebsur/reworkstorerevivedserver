@@ -1,0 +1,12 @@
+{
+    "displayname" : "Rework-Store Mobile",
+    "productType" : "app",
+    "category" : "Mods",
+    "mainStars": "5",
+    "ratingNumber": "Rework",
+    "ratingsCount": "Rework",
+    "imgUrl" : "https://rwstoremasterserver.vercel.app/data/images/store.PNG",
+    "downloadUri" : "https://rwstoremasterserver.vercel.app/data/appxs/ReWork Store_3.0.0.1_AnyCPU_Debug.appxbundle"
+
+}
+

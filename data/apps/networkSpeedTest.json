@@ -1,0 +1,26 @@
+{
+    "displayname" : "Network Speed Test",
+    "productType" : "app",
+    "category" : "Productivity",
+    "publisher": "Microsoft Corporation",
+    "copyright": "© 2014 Microsoft Corporation. All rights reserved.",
+    "description": "Network Speed Test is a clean, ad-free, and highly accurate utility designed to help you understand your internet performance. Whether you are troubleshooting a slow Wi-Fi connection or testing your new 4G LTE data speeds on a Windows 8 PC, this app provides the data you need in seconds.",
+    "mainStars": "3",
+    "ratingNumber": "3.3",
+    "ratingsCount": "116",
+    "size": "88.8 KB",
+    "ageRating": "Everyone",
+    "imgUrl" : "https://rwstoremasterserver.vercel.app/data/images/networkSpeedTest.png",
+    "pageimg1": "https://rwstoremasterserver.vercel.app/data/images/networkSpeedTestimg1.png",
+    "pageimg2": "https://rwstoremasterserver.vercel.app/data/images/networkSpeedTestimg2.png",
+    "pageimg3": "https://rwstoremasterserver.vercel.app/data/images/networkSpeedTestimg3.png",
+    "downloadUri" : "https://rwstoremasterserver.vercel.app/data/appxs/Microsoft.NetworkSpeedTest_8wekyb3d8bbwe.appx"
+
+}
+
+
+
+
+
+
+

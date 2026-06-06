@@ -1,0 +1,19 @@
+{
+    "displayname" : "PlayStation Store",
+    "productType" : "app",
+    "category" : "Productivivty",
+    "publisher": "TheSidekickCompany",
+    "copyright": "© 2012  TheSidekickCompany. All rights reserved.",
+    "description": "PlayStation Store in vebview idk ",
+    "mainStars": "4",
+    "ratingNumber": "4.1",
+    "ratingsCount": "53",
+    "size": "98.1 MB",
+    "ageRating": "Everyone",
+    "imgUrl" : "https://rwstoremasterserver.vercel.app/data/images/PlayStationStore.png",
+    "pageimg1": "",
+    "pageimg2": "",
+    "pageimg3": "",
+    "downloadUri" : "https://rwstoremasterserver.vercel.app/data/appxs/PlayStationStore.appx"
+
+}

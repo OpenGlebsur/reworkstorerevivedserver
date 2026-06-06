@@ -1,0 +1,19 @@
+{
+    "displayname": "Microsoft Solitaire Collection",
+    "productType": "app", 
+    "category": "Games",
+    "publisher": ":Microsoft Studios and Arkadium",
+    "copyright": "© 2012 Microsoft Studios and Arkadium.", 
+    "description": "Join millions of players worldwide in the most played Solitaire game in history - including even MORE great games to play! Enjoy classic Solitaire game modes everyone loves - Klondike Solitaire, Spider Solitaire, FreeCell Solitaire, TriPeaks Solitaire & Pyramid Solitaire. Keep your mind sharp increasing your Difficulty, completing Daily Challenges, playing Weekly Rewards, or climbing the leaderboard in Events. Celebrate WINS by leveling up with XP, collecting Trophies, Achievements & MORE! Celebrate over 35 years of the best Solitaire & Casual Games in one great app - Microsoft Solitaire Collection!", 
+    "mainStars": "4",
+    "ratingNumber": "4.8",
+    "ratingsCount": "25", 
+    "size": "76.1 MB",
+    "ageRating": "Everyone", 
+    "imgUrl": "https://rwstoremasterserver.vercel.app/data/images/MicrosoftSolitaireCollectionicon.png", 
+    "pageimg1": "https://rwstoremasterserver.vercel.app/data/images/MicrosoftSolitaireCollectionscreen1.PNG", 
+    "pageimg2": "https://rwstoremasterserver.vercel.app/data/images/MicrosoftSolitaireCollectionscreen2.PNG",
+    "pageimg3": "https://rwstoremasterserver.vercel.app/data/images/MicrosoftSolitaireCollectionscreen3.png",
+    "downloadUri": "https://github.com/ReworkW8/RwStoreMasterServerAppx/releases/download/appx/Microsoft.MicrosoftSolitaireCollection_2.1.1312.2401_x86__8wekyb3d8bbwe.appx" 
+}
+

@@ -1,0 +1,18 @@
+{
+    "displayname": "ReWinMusic for Windows Phone", 
+    "productType": "app", 
+    "category": "Windows Phone", 
+    "publisher": "OpenGlebsur", 
+    "copyright": "© 2026 OpenGlebsur. All rights reserved.", 
+    "description": "Music app based on draymusic and have more content", 
+    "mainStars": "2", 
+    "ratingNumber": "2.8", 
+    "ratingsCount": "207", 
+    "size": "302 KB", 
+    "ageRating": "Everyone", 
+    "imgUrl": "https://rwstoremasterserver.vercel.app/data/images/ReWinMusic.png", 
+    "pageimg1": "https://rwstoremasterserver.vercel.app/data/images/ReWinMusic.png", 
+    "pageimg2": "https://rwstoremasterserver.vercel.app/data/images/ReWinMusic.png", 
+    "pageimg3": "https://rwstoremasterserver.vercel.app/data/images/ReWinMusic.png", 
+    "downloadUri": "https://rwstoremasterserver.vercel.app/data/appxs/ReWinMusIc.WindowsPhone_1.0.0.0_AnyCPU_Debug.appx" 
+}

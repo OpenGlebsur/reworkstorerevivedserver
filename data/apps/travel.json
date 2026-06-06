@@ -1,0 +1,26 @@
+{
+    "displayname" : "Travel",
+    "productType" : "app",
+    "category" : "Productivity",
+    "publisher": "Microsoft Corporation",
+    "copyright": "© 2014 Microsoft Corporation. All rights reserved.",
+    "description": "Your passport to adventure, reimagined for Windows 8. Travel is the premier travel app designed to turn your device into a window to the world. Whether you are dreaming of your next getaway or ready to book a flight, the app provides a breathtaking, panoramic experience that combines inspiration with high-utility travel tools. From 360-degree panoramas to expert reviews, everything you need for the perfect trip is just a swipe away.",
+    "mainStars": "3",
+    "ratingNumber": "3.7",
+    "ratingsCount": "115",
+    "size": "30.6 MB",
+    "ageRating": "Everyone",
+    "imgUrl" : "https://rwstoremasterserver.vercel.app/data/images/travel.png",
+    "pageimg1": "https://rwstoremasterserver.vercel.app/data/images/travelimg1.PNG",
+    "pageimg2": "https://rwstoremasterserver.vercel.app/data/images/travelimg2.PNG",
+    "pageimg3": "https://rwstoremasterserver.vercel.app/data/images/travelimg3.PNG",
+    "downloadUri" : "https://github.com/ReworkW8/RwStoreMasterServerAppx/releases/download/appx/Microsoft.BingTravel_3.0.0.694_x64__8wekyb3d8bbwe.appx"
+
+}
+
+
+
+
+
+
+

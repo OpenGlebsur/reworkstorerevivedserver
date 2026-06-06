@@ -1,0 +1,19 @@
+{
+    "displayname" : "Google Search Revvied",
+    "productType" : "app",
+    "category" : "Productivivty",
+    "publisher": "tedrooz , Google",
+    "copyright": "© 2025 tedrooz, Googe. All rights reserved.",
+    "description": "Just Revived Google Search with 2012 vibe",
+    "mainStars": "4",
+    "ratingNumber": "4.8",
+    "ratingsCount": "144",
+    "size": "1.79 MB",
+    "ageRating": "Everyone",
+    "imgUrl" : "https://rwstoremasterserver.vercel.app/data/images/Google Search.png",
+    "pageimg1": "",
+    "pageimg2": "",
+    "pageimg3": "",
+    "downloadUri" : "https://rwstoremasterserver.vercel.app/data/appxs/googlesearchrevived.appx"
+
+}

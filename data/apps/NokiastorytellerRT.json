@@ -1,0 +1,19 @@
+{
+    "displayname": "Nokia storyteller",
+    "productType": "app", 
+    "category": "Windows RT",
+    "publisher": "Nokia ",
+    "copyright": "© 2013 Nokia. All rights reserved.", 
+    "description": "Lumia Storyteller automatically groups all your photos, videos, and cinemagraphs into individual events called stories.In your timeline you can browse and modify your stories. You can also sort your photos and videos by location, add captions and create a list of favorites, and when you’re looking at a photo you can see where you took it on a map by zooming out.",
+    "mainStars": "4", 
+    "ratingNumber": "4.2",
+    "ratingsCount": "534",
+    "size": "12.8 MB", 
+    "ageRating": "Everyone", 
+    "imgUrl": "https://rwstoremasterserver.vercel.app/data/images/storyteller_icon.png", 
+    "pageimg1": "https://rwstoremasterserver.vercel.app/data/images/storyteller_scr1.png", 
+    "pageimg2": "https://rwstoremasterserver.vercel.app/data/images/storyteller_scr2.png", 
+    "pageimg3": "https://rwstoremasterserver.vercel.app/data/images/storyteller_scr3.png", 
+    "downloadUri": "https://rwstoremasterserver.vercel.app/data/appxs/NokiaStorytellerforRT.appx"
+}
+

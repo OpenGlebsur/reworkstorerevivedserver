@@ -1,0 +1,19 @@
+{
+    "displayname": "Facebook", 
+    "productType": "app", 
+    "category": "Social", 
+    "publisher": "Facebook, Inc.", 
+    "copyright": "© 2013 Facebook, Inc. All rights reserved.", 
+    "description": "Keeping up with your friends is easier than ever with the official Facebook app.", 
+    "mainStars": "4", 
+    "ratingNumber": "4.7", 
+    "ratingsCount": "639",
+    "size": "420 KB", 
+    "ageRating": "+12", 
+    "imgUrl": "https://rwstoremasterserver.vercel.app/data/images/Facebookicon.png", 
+    "pageimg1": "https://rwstoremasterserver.vercel.app/data/images/Facebookimg1.png", 
+    "pageimg2": "https://rwstoremasterserver.vercel.app/data/images/Facebookimg2.png", 
+    "pageimg3": "https://rwstoremasterserver.vercel.app/data/images/Facebookimg3.png", 
+    "downloadUri": "https://rwstoremasterserver.vercel.app/data/appxs/27376FBTouch.FacebookTouch_1.0.0.56_neutral__0fbh69et56sew.appx"
+}
+

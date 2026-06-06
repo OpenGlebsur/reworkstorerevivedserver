@@ -1,0 +1,19 @@
+{
+    "displayname" : "Microsoft Bing",
+    "productType" : "app",
+    "category" : "Productivivty",
+    "publisher": "Microsoft Corporation",
+    "copyright": "© 2012 Microsoft Corporation. All rights reserved.",
+    "description": "A Metro bing search app ",
+    "mainStars": "4",
+    "ratingNumber": "4.1",
+    "ratingsCount": "53",
+    "size": "98.1 MB",
+    "ageRating": "Everyone",
+    "imgUrl" : "https://rwstoremasterserver.vercel.app/data/images/Bing.png",
+    "pageimg1": "",
+    "pageimg2": "",
+    "pageimg3": "",
+    "downloadUri" : "https://rwstoremasterserver.vercel.app/data/appxs/Microsoft.Bing_1.2.0.137_x64__8wekyb3d8bbwe.appx"
+
+}

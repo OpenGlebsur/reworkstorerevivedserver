@@ -1,0 +1,24 @@
+{
+    "displayname" : "Food & Drink",
+    "productType" : "app",
+    "category" : "Productivity",
+    "publisher": "Microsoft Corporation",
+    "copyright": "© 2014 Microsoft Corporation. All rights reserved.",
+    "description": "Food & Drink serves as a comprehensive platform for culinary enthusiasts. Recipes span multiple cuisines, catering to various tastes and preferences. Each recipe features clear instructions and ingredient lists, making cooking accessible for everyone.",
+    "mainStars": "4",
+    "ratingNumber": "4.5",
+    "ratingsCount": "136",
+    "size": "4.7 MB",
+    "ageRating": "Everyone",
+    "imgUrl" : "https://rwstoremasterserver.vercel.app/data/images/FoodDrink.png",
+    "pageimg1": "https://rwstoremasterserver.vercel.app/data/images/food%26drinkimg1.png",
+    "pageimg2": "https://rwstoremasterserver.vercel.app/data/images/food%26drinkimg2.png",
+    "pageimg3": "https://rwstoremasterserver.vercel.app/data/images/food%26drinkimg3.png",
+    "downloadUri" : "https://rwstoremasterserver.vercel.app/data/appxs/Microsoft.BingFoodAndDrink_3.0.0.693_x64__8wekyb3d8bbwe.appx"
+
+}
+
+
+
+
+

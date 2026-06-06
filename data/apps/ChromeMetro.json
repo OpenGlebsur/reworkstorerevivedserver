@@ -1,0 +1,18 @@
+{
+    "displayname": "Chrome",
+    "productType": "app", 
+    "category": "productivity",
+    "publisher": " ReOpen", 
+    "copyright": "© 2026 ReOpen. All rights reserved.",
+    "description": "chorme metro client (chrome 24)",
+    "mainStars": "4", 
+    "ratingNumber": "4.3", 
+    "ratingsCount": "651",
+    "size": "325kb", 
+    "ageRating": "+3", 
+    "imgUrl": "https://rwstoremasterserver.vercel.app/data/images/Chrome.png", 
+    "pageimg1": "https://rwstoremasterserver.vercel.app/data/imagesChrome.png", 
+    "pageimg2": "https://rwstoremasterserver.vercel.app/data/images/Chrome.png",
+    "pageimg3": "https://rwstoremasterserver.vercel.app/data/images/Chrome.png",
+    "downloadUri": "https://rwstoremasterserver.vercel.app/data/appxs/ChromeUWP_1.0.0.0_AnyCPU.appx" 
+}

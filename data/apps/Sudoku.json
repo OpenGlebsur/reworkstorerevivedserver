@@ -1,0 +1,18 @@
+{
+    "displayname": "Sudoku",
+    "productType": "Game", 
+    "category": "Beta Apps",
+    "publisher": "Microsoft", 
+    "copyright": "© 2011 Microsoft. All rights reserved.",
+    "description": "",
+    "mainStars": "4", 
+    "ratingNumber": "4.3", 
+    "ratingsCount": "651",
+    "size": "7.25mb", 
+    "ageRating": "+3", 
+    "imgUrl": "https://rwstoremasterserver.vercel.app/data/images/sudoku.png", 
+    "pageimg1": "", 
+    "pageimg2": "",
+    "pageimg3": "",
+    "downloadUri": "https://rwstoremasterserver.vercel.app/data/appxs/sudoku_test4.appx" 
+}

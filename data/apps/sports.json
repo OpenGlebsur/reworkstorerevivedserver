@@ -1,0 +1,25 @@
+{
+    "displayname" : "Sports",
+    "productType" : "app",
+    "category" : "Productivity",
+    "publisher": "Microsoft Corporation",
+    "copyright": "© 2014 Microsoft Corporation. All rights reserved.",
+    "description": "The Sports app for Windows 8 provides users with the latest sports news, game schedules, and statistics. It features a user-friendly interface that allows customization of favorite sports and teams, ensuring users stay updated with their preferred sports. The app includes high-resolution images, articles from relevant sports websites, and a clean layout for an enjoyable reading experience. Users can also share articles easily and access daily top stories and their favorite teams for quick access to game plans and player statistics.",
+    "mainStars": "5",
+    "ratingNumber": "5.9",
+    "ratingsCount": "139",
+    "size": "10.4 MB",
+    "ageRating": "Everyone",
+    "imgUrl" : "https://rwstoremasterserver.vercel.app/data/images/Sports.png",
+    "pageimg1": "https://rwstoremasterserver.vercel.app/data/images/sportsimg1.PNG",
+    "pageimg2": "https://rwstoremasterserver.vercel.app/data/images/sportsimg2.PNG",
+    "pageimg3": "https://rwstoremasterserver.vercel.app/data/images/sportsimg3.PNG",
+    "downloadUri" : "https://github.com/ReworkW8/RwStoreMasterServerAppx/releases/download/appx/Microsoft.BingSports_3.0.0.693_x64__8wekyb3d8bbwe.appx"
+
+}
+
+
+
+
+
+

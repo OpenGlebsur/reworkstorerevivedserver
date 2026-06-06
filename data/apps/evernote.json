@@ -1,0 +1,26 @@
+{
+    "displayname" : "Evernote Touch",
+    "productType" : "app",
+    "category" : "Productivity",
+    "publisher": "Evernote",
+    "copyright": "© 2014 Evernote. All rights reserved.",
+    "description": "Your second brain, beautifully organized. Evernote for Windows 8 is more than just a note-taking app; it is a powerful workspace designed to help you capture, nurture, and share your ideas. Reimagined for the modern interface, Evernote combines the stability of its world-class syncing with a fluid, Metro inspired design that makes staying productive feel effortless.",
+    "mainStars": "2",
+    "ratingNumber": "2.1",
+    "ratingsCount": "92",
+    "size": "4.15 MB",
+    "ageRating": "Everyone",
+    "imgUrl" : "https://rwstoremasterserver.vercel.app/data/images/evernote.png",
+    "pageimg1": "https://rwstoremasterserver.vercel.app/data/images/evernoteimg1.png",
+    "pageimg2": "https://rwstoremasterserver.vercel.app/data/images/evernoteimg2.png",
+    "pageimg3": "https://rwstoremasterserver.vercel.app/data/images/evernoteimg3.png",
+    "downloadUri" : "https://rwstoremasterserver.vercel.app/data/appxs/Evernote.Evernote_2.0.3.11_x86__q4d96b2w5wcc2.appx"
+
+}
+
+
+
+
+
+
+

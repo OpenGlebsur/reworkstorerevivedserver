@@ -1,0 +1,18 @@
+{
+    "displayname": "MixRadio",
+    "productType": "app", 
+    "category": "Productivity",
+    "publisher": "Nokia ",
+    "copyright": "© 2013 Nokia. All rights reserved.", 
+    "description": "MixRadio was an online music streaming service that was operated by Line Corporation at the time of closure. The service was first introduced by Nokia in October 2011 as Nokia Music for Windows Phone, serving as a successor to their previous digital music initiatives that date back to the Nokia Music Store launched in 2007. It was rebranded to MixRadio in November 2013. Line Corporation took control of the service in 2015 and expanded the service to Android and iOS in May 2015. MixRadio was shut down in March 2016.",
+    "mainStars": "4", 
+    "ratingNumber": "4.2",
+    "ratingsCount": "534",
+    "size": "34.2 MB", 
+    "ageRating": "Everyone", 
+    "imgUrl": "https://rwstoremasterserver.vercel.app/data/images/mx.png", 
+    "pageimg1": "", 
+    "pageimg2": "", 
+    "pageimg3": "", 
+    "downloadUri": "https://rwstoremasterserver.vercel.app/data/appxs/mx.appx"
+}

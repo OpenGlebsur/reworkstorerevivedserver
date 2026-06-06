@@ -1,0 +1,116 @@
+{
+  "rework_core_system": {
+    "gateway_control": {
+      "node_active": true,
+      "session_persistence": "enabled",
+      "global_status": "operational",
+      "environment": "production-master"
+    },
+    "content_registry": {
+      "deployment_groups": {
+        "curated_selection": {
+          "internal_code": "RW-FL-001",
+          "payload": [
+            { "label": "Bing", "uid": "RW_B_14" },
+            { "label": "BuildDP", "uid": "RW_B11_14" },
+            { "label": "AlarmsDP", "uid": "RW_ADP_14" },
+            { "label": "CheckM8", "uid": "RW_CM8_14" },
+            { "label": "FiveInArow", "uid": "RW_FiA_14" },
+            { "label": "Measureit", "uid": "RW_MI_14" },
+            { "label": "Mopod", "uid": "RW_MPD_14" },
+            { "label": "NewsDP", "uid": "RW_NDP_14" },
+            { "label": "Notespace", "uid": "RW_NPDP_14" },
+            { "label": "Paintplay", "uid": "RW_PP_14" },
+            { "label": "Socialite", "uid": "RW_SDP_14" },
+            { "label": "Stocks", "uid": "RW_STDP_14" },
+            { "label": "Sudoku", "uid": "RW_SDKUDP_14" },
+            { "label": "CMDInjector", "uid": "RW_CMDI_14" },
+            { "label": "GoogleSearch", "uid": "RW_GS_14" },
+            { "label": "ImMobile", "uid": "RW_IM_14" },
+            { "label": "LiveText", "uid": "RW_LT_14" },
+            { "label": "MixRadio", "uid": "RW_MR_14" },
+            { "label": "PSStore", "uid": "RW_PSS_14" },
+            { "label": "ReSpot", "uid": "RW_RS_14" },
+            { "label": "ReWinMusicMobile", "uid": "RW_RWMM_14" },
+            { "label": "Siena", "uid": "RW_MSPS_14" },
+            { "label": "ReWindowsStore Mobile", "uid": "RW_RWSM_14" },
+            { "label": "ReWinMusic", "uid": "RW_RNM_1.0" },
+            { "label": "caelus", "uid": "RW_C_22" },
+            { "label": "weather", "uid": "RW_WTHR_88" },
+            { "label": "news", "uid": "RW_NEWS_12" },
+            { "label": "freshPaint", "uid": "RW_PNT_99" },
+            { "label": "twitter", "uid": "RW_SOC_TBT" },
+            { "label": "xboxGamesApp", "uid": "RW_XBOX_01" },
+            { "label": "food&drink", "uid": "RW_FD_01" },
+            { "label": "sports", "uid": "RW_SPT_01" },
+            { "label": "netflix", "uid": "RW_NTFX_01" },
+            { "label": "dogedodge", "uid": "RW_DGDD_01" },
+            { "label": "dumbwaystodie2thegames", "uid": "RW_DWTD2TG_01" },
+            { "label": "appinstaller", "uid": "RW_APPINST_01" },
+            { "label": "evernote", "uid": "RW_EVNE_01" },
+            { "label": "tortasypostres", "uid": "RW_TYPS_01" },
+            { "label": "peppapigmemorygame", "uid": "RW_PPMG_01" },
+            { "label": "deezer", "uid": "RW_DZR_01" },
+            { "label": "comedycentral", "uid": "RW_CC_01" },
+            { "label": "moorhuhn", "uid": "RW_MH_01" },
+            { "label": "vlcplayer", "uid": "RW_VLC_01" },
+            { "label": "amazon", "uid": "RW_AMZN_01" },
+            { "label": "ebay", "uid": "RW_EBY_01" },
+            { "label": "adobereader", "uid": "RW_ADRE_01" },
+            { "label": "flappybird", "uid": "RW_FLPB_01" },
+            { "label": "caeluslegacy", "uid": "RW_CLS_01" },
+            { "label": "winrtmetroinstaller", "uid": "RW_WMI_01" },
+            { "label": "minionrush", "uid": "RW_DMMR_01" },
+            { "label": "farmingsimulator14", "uid": "RW_FS14_01" },
+            { "label": "farmingsimulator14WinRT", "uid": "RW_FS14WinRT_01" },
+            { "label": "farmingsimulator16", "uid": "RW_FS16_01" },
+            { "label": "Notepad++RT", "uid": "RW_n++rt_01" },
+            { "label": "microsoftgamesRT", "uid": "RW_MSGRT_01" },
+            { "label": "ReWindowsStore", "uid": "RW_RWS_01" },
+            { "label": "DrayMusic", "uid": "RW_DM_01" },
+            { "label": "MicrosoftSolitaireCollection", "uid": "RW_MSC_01" },
+            { "label": "Clock+", "uid": "RW_CLOCK_01" },
+            { "label": "HPgames", "uid": "RW_HPG_01" },
+            { "label": "Nokiastorytellerx86", "uid": "RW_NSTD_01" },
+            { "label": "NokiastorytellerRT", "uid": "RW_NSTRT_01" },
+            { "label": "Facebook", "uid": "RW_FAC_01" },
+            { "label": "travel", "uid": "RW_TRVL_01" }
+          ]
+        },
+        "utility_peak": {
+          "internal_code": "RW-TA-002",
+          "payload": [
+            { "label": "myTube", "uid": "RW_MTB_07" },
+            { "label": "adobePhotoshop", "uid": "RW_ADOBE_PS" },
+            { "label": "openTracks", "uid": "RW_TRK_OPEN" },
+            { "label": "networkSpeedTest", "uid": "RW_NET_SPD" },
+            { "label": "kindle", "uid": "RW_AMZ_KNDL" },
+            { "label": "finance", "uid": "RW_FIN_MGR" },
+            { "label": "health&fitness", "uid": "RW_HF_01" }
+          ]
+        },
+        "gaming_peak": {
+          "internal_code": "RW-TG-003",
+          "payload": [
+            { "label": "angryBirdsSpace", "uid": "RW_G_ABS" },
+            { "label": "angryBirdsStarWars", "uid": "RW_G_ABSW" },
+            { "label": "msMinesweeper", "uid": "RW_G_MSW" },
+            { "label": "cutTheRope", "uid": "RW_G_CTR" },
+            { "label": "whereismyWater", "uid": "RW_G_WMW" },
+            { "label": "fruitNinja", "uid": "RW_G_FNJ" },
+            { "label": "raymanJungleRun", "uid": "RW_G_RRX" },
+            { "label": "crossyRoad", "uid": "RW_G_CR" },
+            { "label": "sonicDash", "uid": "RW_G_SD" },
+            { "label": "templeRunOz", "uid": "RW_G_TROZ" }
+          ]
+        }
+      }
+    }
+  },
+  "metadata": {
+    "container_width": "1000px",
+    "version": "2.2.0",
+    "encryption_layer": "AES-256-GCM",
+    "total_apps": 25
+  }
+}

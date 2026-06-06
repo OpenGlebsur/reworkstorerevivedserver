@@ -1,0 +1,19 @@
+{
+    "displayname": "DrayMusic",
+    "productType": "app", 
+    "category": "Music & Video",
+    "publisher": "DraydenYT", 
+    "copyright": "© 2026 DraydenYT. All rights reserved.",
+    "description": "DrayMusic For 8.1, get the best music streaming experience, Was originally made for 8Store, but screw them. rework was always better anyways. app may work on rt",
+    "mainStars": "4", 
+    "ratingNumber": "4.3", 
+    "ratingsCount": "651",
+    "size": "26KB", 
+    "ageRating": "+3", 
+    "imgUrl": "https://rwstoremasterserver.vercel.app/data/images/ndrg7l.png", 
+    "pageimg1": "https://rwstoremasterserver.vercel.app/data/images/ndrzt1.png", 
+    "pageimg2": "https://rwstoremasterserver.vercel.app/data/images/ndrzt2.png",
+    "pageimg3": "https://rwstoremasterserver.vercel.app/data/images/ndrzt3.png",
+    "downloadUri": "https://rwstoremasterserver.vercel.app/data/appxs/u38did.appx" 
+}
+

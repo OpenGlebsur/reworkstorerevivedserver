@@ -1,0 +1,28 @@
+{
+    "displayname" : "Adobe Reader Touch",
+    "productType" : "app",
+    "category" : "Productivity",
+    "publisher": "Adobe Systems Incorporated",
+    "copyright": "© 2016 Adobe Systems Incorporated. All rights reserved.",
+    "description": "The global standard for PDF documents, optimized for the future. Adobe Reader for Windows 8 brings the reliability of the world’s leading PDF software into a brand-new, touch-optimized interface. Whether you are using a Surface tablet or a desktop PC, Adobe Reader provides a fluid, fast, and intuitive experience for viewing and interacting with your documents.",
+    "mainStars": "4",
+    "ratingNumber": "4.6",
+    "ratingsCount": "670",
+    "size": "2.66 MB",
+    "ageRating": "Everyone",
+    "imgUrl" : "https://rwstoremasterserver.vercel.app/data/images/adobereader.png",
+    "pageimg1": "https://rwstoremasterserver.vercel.app/data/images/adobereaderimg1.PNG",
+    "pageimg2": "https://rwstoremasterserver.vercel.app/data/images/adobereaderimg2.PNG",
+    "pageimg3": "https://rwstoremasterserver.vercel.app/data/images/adobereaderimg3.PNG",
+    "downloadUri" : "https://rwstoremasterserver.vercel.app/data/appxs/AdobeSystemsIncorporated.AdobeReader_ynb6jyjzte8ga.appx"
+
+}
+
+
+
+
+
+
+
+
+

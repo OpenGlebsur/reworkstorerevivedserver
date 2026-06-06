@@ -1,0 +1,18 @@
+{
+    "displayname": "5 In Arow",
+    "productType": "Game", 
+    "category": "Beta Apps",
+    "publisher": "Microsoft", 
+    "copyright": "© 2011 Microsoft. All rights reserved.",
+    "description": "Just a simple game",
+    "mainStars": "4", 
+    "ratingNumber": "4.3", 
+    "ratingsCount": "651",
+    "size": "7.25mb", 
+    "ageRating": "+3", 
+    "imgUrl": "https://rwstoremasterserver.vercel.app/data/images/FiveInArow.png", 
+    "pageimg1": "", 
+    "pageimg2": "",
+    "pageimg3": "",
+    "downloadUri": "https://rwstoremasterserver.vercel.app/data/appxs/5inarow_test2.appx" 
+}

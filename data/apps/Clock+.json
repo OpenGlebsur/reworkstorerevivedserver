@@ -1,0 +1,19 @@
+{
+    "displayname": "Asparion Clock+", 
+    "productType": "app", 
+    "category": "Utilities", 
+    "publisher": " Asparion", 
+    "copyright": "© 2012  Asparion. All rights reserved.",
+    "description": "With this clock you can always keep track of time. It displays the date and time and other information in a tile on your windows start screen. You can choose the style and different date and time formats. In addition to that you can set alarms and timers. App is neutral so it works on RT", 
+    "mainStars": "0", 
+    "ratingNumber": "0.0",
+    "ratingsCount": "0", 
+    "size": "15 MB", 
+    "ageRating": "+3", 
+    "imgUrl": "https://rwstoremasterserver.vercel.app/data/images/clock+icon.png",
+    "pageimg1": "https://rwstoremasterserver.vercel.app/data/images/clock+screen3.png", 
+    "pageimg2": "https://rwstoremasterserver.vercel.app/data/images/clock+screen2.png", 
+    "pageimg3": "https://rwstoremasterserver.vercel.app/data/images/clock+screen1.png", 
+    "downloadUri": "https://rwstoremasterserver.vercel.app/data/appxs/12199Asparion.46210B09B1459_4.0.1.47_neutral__f89vgcf3qm37t.appx"
+}
+

@@ -1,0 +1,20 @@
+{
+    "displayname": "ReWinStore Mobile", 
+    "productType": "app", 
+    "category": "Windows Phone", 
+    "publisher": "OpenGlebsur", 
+    "copyright": "© 2026 OpenGlebsur. All rights reserved.", 
+    "description": "A shoping mall with apps from the Rework-Store and from the fucking 8Store!", 
+    "mainStars": "2", 
+    "ratingNumber": "2.8", 
+    "ratingsCount": "207", 
+    "size": "200.50 KB", 
+    "ageRating": "Everyone", 
+    "imgUrl": "https://reworkw8.github.io/RwStoreMasterServer/images/ReWindowsStore.png", 
+    "pageimg1": "https://reworkw8.github.io/RwStoreMasterServer/images/ReWindowsStoreimg1.png", 
+    "pageimg2": "https://reworkw8.github.io/RwStoreMasterServer/images/ReWindowsStoreimg2.png", 
+    "pageimg3": "https://reworkw8.github.io/RwStoreMasterServer/images/ReWindowsStoreimg3.png", 
+    "downloadUri": "https://files.catbox.moe/p66v1o.appx" 
+}
+
+

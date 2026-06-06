@@ -1,0 +1,222 @@
+{
+    "rework_core_system": {
+        "gateway_control": {
+            "node_active": true,
+			"radio": true,
+            "maintenance_mode": true, 
+            "lock_mode": true,
+            "version1.0": "update",
+            "version1.1": "update",
+            "version1.2": "update",
+            "version1.3": "update",
+            "version1.4": "update",
+            "version1.5": "update",
+            "version1.6": "update",
+            "version1.7": "update",
+            "version1.8": "update",
+            "version1.9": "update",
+            "version2.0": "update",
+            "version2.1": "update",
+            "version2.2": "update",
+            "version2.2u1": "update",
+			"version3.0": "update",
+			"version3.1": "update",
+			"version3.2": true,
+			"version1.0.classic": true,
+			"mobile": true,
+			"legacy": true,
+            "session_persistence": "enabled",
+            "global_status": "operational",
+            "environment": "production-master",
+            "version_lock": {
+                "active_version": "3.2.0.0",
+                "action_on_incompatible": "FORCE_OFFLINE",
+                "maintenance_mode": true
+            }
+        },
+        "network_routing": {
+            "base_origin": "https://rwstoremasterserver.vercel.app/v3",
+            "asset_mirror": "https://rwstoremasterserver.vercel.app/content",
+            "auth_service": "https://rwstoremasterserver.vercel.app/auth"
+        },
+        "toast_notification": {
+            "ShowToast": true,
+            "title": "🔌 𝘙𝘦𝘸𝘰𝘳𝘬-𝘚𝘩𝘶𝘵𝘥𝘰𝘸𝘯",
+            "message": "Due to security concerns and apparently a Microsoft notice and letter we will shut down Rework and all servers on August 5th, 2026."
+        },
+        "content_registry": {
+            "live_tile_feed": {
+                "internal_code": "RW-LT-TITLE",
+                "update_policy": "cycle_random",
+                "payload": [
+                    {"uid": "RW_G_CTR_L", "label": "cutTheRope", "description": "A mysterious package has arrived, and the little monster inside has only one request… CANDY! Cut the Rope is the award-winning physics-based puzzle game that took the world by storm, now fully optimized for the Windows 8 experience. Combine outstanding physics, tricky levels, and bright visuals to guide the candy into Om Nom's mouth. But be careful—collecting the three gold stars in each level is where the real challenge begins!"},
+                    {"uid": "RW_DZR_01", "label": "deezer", "description": "Discover your next favorite song with Deezer! Deezer for Windows 8 brings over 20 million tracks (and counting!) to your fingertips with a sleek, fluid interface designed specifically for the modern era of Windows. Combining professional editorial curation with smart algorithms, Deezer ensures that your music is as unique as you are."},
+                    {"uid": "RW_NET_SPD", "label": "networkSpeedTest", "description": "Network Speed Test is a clean, ad-free, and highly accurate utility designed to help you understand your internet performance. Whether you are troubleshooting a slow Wi-Fi connection or testing your new 4G LTE data speeds on a Windows 8 PC, this app provides the data you need in seconds."},
+                    {"uid": "RW_G_WMW", "label": "whereismyWater", "description": "Help Swampy the Alligator get his shower! Deep beneath the city, Swampy just wants to be clean, but the other alligators are out to sabotage his water supply. Where's My Water? is a challenging, physics-based puzzler that requires quick thinking and clever strategy. Use your screen to carve through dirt and guide fresh water, purple ooze, and steam to help Swampy and his friends."},
+                    {"uid": "RW_AMZ_KNDL", "label": "kindle", "description": "Carry thousands of books in the palm of your hand. The Kindle app is reimagined for Windows 8, providing a beautiful, easy-to-use interface that turns your tablet or PC into a powerful e-reader. Whether you are catching up on a bestseller during your commute or studying a textbook at your desk, Kindle for Windows 8 offers a seamless and immersive reading experience."},
+                    {"uid": "RW_G_FNJ", "label": "fruitNinja", "description": "The slicer is back and sharper than ever! Fruit Ninja brings the addictive, high-energy action of the world's most famous fruit-slicing game to the Windows 8 ecosystem. Whether you're a master sensei or a newcomer to the dojo, Fruit Ninja provides a satisfying blend of simple mechanics and deep, skill-based challenges that are perfect for any device."},
+                    {"uid": "RW_NTFX_01", "label": "netflix", "description": "The world's leading subscription service for movies and TV shows comes to the Start Screen. The Netflix app for Windows 8 has been built from the ground up to take full advantage of the modern Metro design. It offers a fast, fluid, and immersive way to discover and watch your favorite content—whether you are on a touch-screen tablet or a traditional desktop PC."},
+                    {"uid": "RW_DWTD2TG_01", "label": "dumbwaystodie2thegames", "description": "The world's dumbest characters are back, and they've gathered for an even bigger, dumber game! Following the viral success of the original campaign, Dumb Ways to Die 2: The Games brings a massive set of new, action-packed mini-games to your Windows 8 device. Train safety has never been this hilariously dangerous."},
+                    {"uid": "RW_EVNE_01", "label": "evernote", "description": "Your second brain, beautifully organized. Evernote for Windows 8 is more than just a note-taking app; it is a powerful workspace designed to help you capture, nurture, and share your ideas. Reimagined for the modern interface, Evernote combines the stability of its world-class syncing with a fluid, Metro inspired design that makes staying productive feel effortless."},
+                    {"uid": "RW_G_RRX", "label": "raymanJungleRun", "description": "The legendary platforming hero makes his grand debut on Windows 8! Powered by the same gorgeous UbiArt Framework engine used in Rayman Origins, Rayman Jungle Run brings breathtaking visuals and rhythm-based action to your screen. Sprint through the lush landscapes of the Glade of Dreams in a high-speed adventure that is easy for anyone to pick up, but a true challenge to master."}
+                ]
+            },
+            "deployment_groups": {
+                "rework_picks": {
+                    "title": "Rework picks",
+                    "internal_code": "RW-PICKS-000",
+                    "payload": [
+                        {"uid": "RW_MTB_07", "label": "myTube"},
+                        {"uid": "RW_G_ABS", "label": "angryBirdsSpace"},
+                        {"uid": "RW_NTFX_01", "label": "netflix"},
+                        {"uid": "RW_GAME_CTR", "label": "cutTheRope"},
+                        {"uid": "RW_G_FNJ", "label": "fruitNinja"},
+                        {"uid": "RW_NEWS_12", "label": "news"}
+                    ]
+                },
+                "curated_selection": {
+                    "title": "Featured",
+                    "internal_code": "RW-FL-001",
+                    "payload": [
+                        {"uid": "RW_WTHR_88", "label": "weather"},
+                        {"uid": "RW_NEWS_12", "label": "news"},
+                        {"uid": "RW_PNT_99", "label": "freshPaint"},
+                        {"uid": "RW_GAME_CTR", "label": "cutTheRope"},
+                        {"uid": "RW_SOC_TBT", "label": "twitter"},
+                        {"uid": "RW_GAME_CR", "label": "crossyRoad"},
+                        {"uid": "RW_MH_01", "label": "moorhuhn"},
+                        {"uid": "RW_FS14_01", "label": "farmingsimulator14"},
+                        {"uid": "RW_APPINST_01", "label": "appinstaller"}
+                    ]
+                },
+                "utility_peak": {
+                    "title": "Top Apps",
+                    "internal_code": "RW-TA-002",
+                    "payload": [
+                        {"uid": "RW_MTB_07", "label": "myTube"},
+                        {"uid": "RW_ADOBE_PS", "label": "adobePhotoshop"},
+                        {"uid": "RW_TRK_OPEN", "label": "openTracks"},
+                        {"uid": "RW_NET_SPD", "label": "networkSpeedTest"},
+                        {"uid": "RW_AMZ_KNDL", "label": "kindle"},
+                        {"uid": "RW_NTFX_01", "label": "netflix"},
+                        {"uid": "RW_EVNE_01", "label": "evernote"},
+                        {"uid": "RW_FIN_MGR", "label": "finance"}
+                    ]
+                },
+                "gaming_peak": {
+                    "title": "Top Games",
+                    "internal_code": "RW-TG-003",
+                    "payload": [
+                        {"uid": "RW_G_ABS", "label": "angryBirdsSpace"},
+                        {"uid": "RW_G_MSW", "label": "msMinesweeper"},
+                        {"uid": "RW_G_CTR_L", "label": "cutTheRope"},
+                        {"uid": "RW_G_WMW", "label": "whereismyWater"},
+                        {"uid": "RW_G_FNJ", "label": "fruitNinja"},
+                        {"uid": "RW_DWTD2TG_01", "label": "dumbwaystodie2thegames"},
+                        {"uid": "RW_G_RRX", "label": "raymanJungleRun"},
+                        {"uid": "RW_DMMR_01", "label": "minionrush"},
+                        {"uid": "RW_FLPB_01", "label": "flappybird"}
+                    ]
+                },
+                "new_peak": {
+                    "title": "New & Rising",
+                    "internal_code": "RW-N&R-004",
+                    "payload": [
+                        {"uid": "RW_TYPS_01", "label": "tortasypostres"},
+                        {"uid": "RW_DZR_01", "label": "deezer"},
+                        {"uid": "RW_VLC_01", "label": "vlcplayer"},
+                        {"uid": "RW_EBY_01", "label": "ebay"},
+                        {"uid": "RW_ADRE_01", "label": "adobereader"},
+                        {"uid": "RW_RWS_01", "label": "ReWindowsStore"},
+                        {"uid": "RW_AMZN_01", "label": "amazon"}
+                    ]
+                },
+                "grossing_peak": {
+                    "title": "Top Grossing",
+                    "internal_code": "RW-GR-005",
+                    "payload": [
+                        {"uid": "RW_G_ABS", "label": "food&drink"},
+                        {"uid": "RW_G_MSW", "label": "dogedodge"},
+                        {"uid": "RW_G_CTR_L", "label": "sonicDash"},
+                        {"uid": "RW_G_WMW", "label": "freshPaint"},
+                        {"uid": "RW_G_FNJ", "label": "fruitNinja"},
+                        {"uid": "RW_DWTD2TG_01", "label": "openTracks"},
+                        {"uid": "RW_G_RRX", "label": "travel"}
+                    ]
+                },
+                "rated_peak": {
+                    "title": "Best Rated",
+                    "internal_code": "RW-RT-006",
+                    "payload": [
+                        {"uid": "RW_G_ABS", "label": "kindle"},
+                        {"uid": "RW_G_MSW", "label": "raymanJungleRun"},
+                        {"uid": "RW_G_CTR_L", "label": "templeRunOz"},
+                        {"uid": "RW_G_WMW", "label": "xboxGamesApp"},
+                        {"uid": "RW_G_FNJ", "label": "netflix"},
+                        {"uid": "RW_DWTD2TG_01", "label": "openTracks"},
+                        {"uid": "RW_CC_01", "label": "comedycentral"}
+                    ]
+                },
+                "winrt_apps": {
+                    "title": "Windows RT",
+                    "internal_code": "RW-WIN-RT",
+                    "payload": [
+                        {"uid": "RW_WMI_01", "label": "winrtmetroinstaller"},
+                        {"uid": "RW_n++rt_01", "label": "Notepad++RT"},
+                        {"uid": "RW_MSGRT_01", "label": "microsoftgamesRT"},
+                        {"uid": "RW_NSTRT_01", "label": "NokiastorytellerRT"},
+                        {"uid": "RW_FS14WinRT_01", "label": "farmingsimulator14WinRT"}
+                    ]
+                },
+                "winphone_apps": {
+                    "title": "Windows Phone",
+                    "internal_code": "RW-WIN-PHONE",
+                    "payload": [
+                        
+                    ]
+                },
+                "rework_peak": {
+                    "title": "Rework Apps",
+                    "internal_code": "RW-App-007",
+                    "payload": [
+                        {"uid": "RW_STORE_01", "label": "store"},
+                        {"uid": "RW_MSO_01", "label": "msoclient"},
+                        {"uid": "RW_RWA_01", "label": "ReworkWinapp"},
+                        {"uid": "RW_RBLX_01", "label": "robloxrework"},
+					    {"uid": "RW_STOREMOBILE_01", "label": "storewp"},
+						{"uid": "RW_STOREMCLASSIC_01", "label": "storeclassic"}
+                    ]
+                },
+                "collections_registry": {
+                    "title": "Collections",
+                    "internal_code": "RW-COLL-008",
+                    "payload": [
+                           {
+                            "title": "Great Apps",
+                            "apps": ["appinstaller", "xboxGamesApp", "freshPaint", "netflix"]
+                        },
+                        {
+                            "title": "Getting Started",
+                            "apps": ["myTube", "adobePhotoshop", "kindle", "raymanJungleRun"]
+                        },
+                        {
+                            "title": "Indie Games",
+                            "apps": ["crossyRoad", "fruitNinja", "whereismyWater", "cutTheRope"]
+                        },
+                      {
+                        "title": "The Newsstand",
+                        "apps": [ "weather", "news", "travel", "finance" ]
+                      },
+                        {
+                            "spacer": true
+                        }
+                    ]
+                }
+            }
+        },
+        "metadata_extension": {
+            "encryption_layer": "AES-256-GCM",
+            "cache_ttl": 86400
+        }
+    }
+}

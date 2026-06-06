@@ -1,0 +1,18 @@
+{
+    "displayname": "ClassiCube", 
+    "productType": "app", 
+    "category": "Productivity", 
+    "publisher": "Bargmy", 
+    "copyright": "© 2026 Bargmy. All rights reserved.", 
+    "description": "Minecraft classic proted to Metro.", 
+    "mainStars": "2", 
+    "ratingNumber": "2.8", 
+    "ratingsCount": "207", 
+    "size": "302 KB", 
+    "ageRating": "Everyone", 
+    "imgUrl": "https://rwstoremasterserver.vercel.app/data/images/ClassiCube.png", 
+    "pageimg1": "", 
+    "pageimg2": "", 
+    "pageimg3": "", 
+    "downloadUri": "https://rwstoremasterserver.vercel.app/data/appxs/ClassiCube.appx" 
+}

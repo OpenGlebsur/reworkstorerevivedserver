@@ -1,0 +1,27 @@
+{
+    "displayname" : "Comedy Central",
+    "productType" : "app",
+    "category" : "Productivity",
+    "publisher": "Comedy Central",
+    "copyright": "© 2014 Comedy Central. All rights reserved.",
+    "description": "Get your daily dose of funny with the official Comedy Central app. Specifically reimagined for the Windows 8 experience, this app brings you the best of late-night television, stand-up, and animated classics. Whether you’re on a Surface tablet or a desktop PC, you can dive into hours of content from the world's first brand in comedy.",
+    "mainStars": "1",
+    "ratingNumber": "1.6",
+    "ratingsCount": "43",
+    "size": "2.14 MB",
+    "ageRating": "Everyone",
+    "imgUrl" : "https://rwstoremasterserver.vercel.app/data/images/comedycentral.png",
+    "pageimg1": "https://rwstoremasterserver.vercel.app/data/images/comedycentralimg1.png",
+    "pageimg2": "https://rwstoremasterserver.vercel.app/data/images/comedycentralimg2.png",
+    "pageimg3": "https://rwstoremasterserver.vercel.app/data/images/comedycentralimg3.png",
+    "downloadUri" : "https://rwstoremasterserver.vercel.app/data/appxs/ComedyCentral.ComedyCentral_2014.604.2145.3835_neutral___67nybarqmz8cp.appx"
+
+}
+
+
+
+
+
+
+
+

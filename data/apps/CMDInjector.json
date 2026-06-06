@@ -1,0 +1,18 @@
+{
+    "displayname": "CMD Injector",
+    "productType": "app", 
+    "category": "Windows Phone",
+    "publisher": "Fadil Fadz", 
+    "copyright": "© 2024 Fadil Fadz. All rights reserved.",
+    "description": "CMD.Injector WP8 A command prompt for Windows Phone 8 need  Bootloader unlock & Interop unlock",
+    "mainStars": "4", 
+    "ratingNumber": "4.3", 
+    "ratingsCount": "651",
+    "size": "7.25mb", 
+    "ageRating": "+3", 
+    "imgUrl": "https://rwstoremasterserver.vercel.app/data/images/CMD Injector.png", 
+    "pageimg1": "https://rwstoremasterserver.vercel.app/data/images/178474757-7c023789-7afe-47fa-98f3-13e2c7b18cfe.png", 
+    "pageimg2": "https://rwstoremasterserver.vercel.app/data/images/178474757-7c023789-7afe-47fa-98f3-13e2c7b18cfe.png",
+    "pageimg3": "https://rwstoremasterserver.vercel.app/data/images/178474757-7c023789-7afe-47fa-98f3-13e2c7b18cfe.png",
+    "downloadUri": "https://rwstoremasterserver.vercel.app/data/appxs/CMDInjector_WP8_v1.3.0.0_Release_ARM.xap" 
+}

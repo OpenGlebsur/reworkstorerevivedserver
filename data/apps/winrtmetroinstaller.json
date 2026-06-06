@@ -1,0 +1,23 @@
+{
+    "displayname": "WinRT App Installer",
+    "productType": "app",
+    "category": "Windows RT",
+    "publisher": "WindowsLock",
+    "copyright": "© 2026 WindowsLock. All rights reserved.",
+    "description": "This is a program for installing appx files on windows RT devices (example: surface RT). You can runnit without run as administrator but you ned to have your device jallbroken and have 7zip for rt installed. Do not edit or copy code of this program without my permission!!! My Discord Server: https://discord.gg/VNNxSUqHvK",
+    "mainStars": "5",
+    "ratingNumber": "5.8",
+    "ratingsCount": "186",
+    "size": "1.24 KB",
+    "ageRating": "Everyone",
+    "imgUrl": "https://rwstoremasterserver.vercel.app/data/images/winrtmetroinstaller.png",
+    "pageimg1": "https://rwstoremasterserver.vercel.app/data/images/winrtmetroinstallerimg1.PNG",
+    "pageimg2": "https://rwstoremasterserver.vercel.app/data/images/winrtmetroinstallerimg2.PNG",
+    "pageimg3": "https://rwstoremasterserver.vercel.app/data/images/winrtmetroinstallerimg3.PNG",
+    "downloadUri": "https://github.com/WindowsLock/WinRTmetroAppInstaller/releases/download/WinRT/WinRT_Metro_Instaler_stand_alone_BY_Windows_Lock.bat"
+}
+
+
+
+
+

@@ -1,0 +1,26 @@
+{
+    "displayname" : "Cut The Rope",
+    "productType" : "game",
+    "category" : "Games",
+    "publisher": "ZeptoLab",
+    "copyright": "© 2013 ZeptoLab. All rights reserved.",
+    "description": "A mysterious package has arrived, and the little monster inside has only one request… CANDY! Cut the Rope is the award-winning physics-based puzzle game that took the world by storm, now fully optimized for the Windows 8 experience. Combine outstanding physics, tricky levels, and bright visuals to guide the candy into Om Nom’s mouth. But be careful—collecting the three gold stars in each level is where the real challenge begins!",
+    "mainStars": "3",
+    "ratingNumber": "3.2",
+    "ratingsCount": "106",
+    "size": "50.2 MB",
+    "ageRating": "Everyone",
+    "imgUrl" : "https://rwstoremasterserver.vercel.app/data/images/CutTheRope.png",
+    "pageimg1": "https://rwstoremasterserver.vercel.app/data/images/cutTheRopeimg1.png",
+    "pageimg2": "https://rwstoremasterserver.vercel.app/data/images/cutTheRopeimg2.png",
+    "pageimg3": "https://rwstoremasterserver.vercel.app/data/images/cutTheRopeimg3.png",
+    "downloadUri" : "https://github.com/ReworkW8/RwStoreMasterServerAppx/releases/download/appx/ZeptoLabUKLimited.CutTheRope_1.2.0.43_x86__sq9zxnwrk84pj.appx"
+
+}
+
+
+
+
+
+
+

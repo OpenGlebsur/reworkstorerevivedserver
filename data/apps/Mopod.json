@@ -1,0 +1,18 @@
+{
+    "displayname": "MoPod",
+    "productType": "App", 
+    "category": "Beta Apps",
+    "publisher": "Microsoft", 
+    "copyright": "© 2011 Microsoft. All rights reserved.",
+    "description": "Just a podcats from 2011",
+    "mainStars": "4", 
+    "ratingNumber": "4.3", 
+    "ratingsCount": "651",
+    "size": "7.25mb", 
+    "ageRating": "+3", 
+    "imgUrl": "https://rwstoremasterserver.vercel.app/data/images/mopod.png", 
+    "pageimg1": "", 
+    "pageimg2": "",
+    "pageimg3": "",
+    "downloadUri": "https://rwstoremasterserver.vercel.app/data/appxs/mopod_test5.appx" 
+}

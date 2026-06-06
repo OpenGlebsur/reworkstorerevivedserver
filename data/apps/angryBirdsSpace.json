@@ -1,0 +1,25 @@
+{
+    "displayname" : "Angry Birds Space",
+    "productType" : "game",
+    "category" : "Games",
+    "publisher": "Rovio Entertainment",
+    "copyright": "© 2012 Rovio Entertainment. All rights reserved.",
+    "description": "The first mobile game of all time blasts off into orbit! After a giant claw kidnaps their eggs, the Angry Birds chase it into a wormhole and find themselves floating in a strange new galaxy—surrounded by space pigs! Angry Birds Space takes the physics-based gameplay you love and adds a cosmic twist that changes everything.",
+    "mainStars": "5",
+    "ratingNumber": "5.3",
+    "ratingsCount": "176",
+    "size": "39.6 MB",
+    "ageRating": "Everyone",
+    "imgUrl" : "https://rwstoremasterserver.vercel.app/data/images/ABSpace.png",
+    "pageimg1": "https://rwstoremasterserver.vercel.app/data/images/angryBirdsSpaceimg1.png",
+    "pageimg2": "https://rwstoremasterserver.vercel.app/data/images/angryBirdsSpaceimg2.png",
+    "pageimg3": "https://rwstoremasterserver.vercel.app/data/images/angryBirdsSpaceimg3.PNG",
+    "downloadUri" : "https://github.com/ReworkW8/RwStoreMasterServerAppx/releases/download/appx/1ED5AEA5.AngryBirdsSpace_1.3.1.0_x86__p2gbknwb5d8r2.1.appx"
+
+}
+
+
+
+
+
+

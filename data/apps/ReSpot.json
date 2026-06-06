@@ -1,0 +1,19 @@
+{
+    "displayname" : "ReSpot",
+    "productType" : "app",
+    "category" : "Productivivty",
+    "publisher": "Irove_jlux",
+    "copyright": "© 2026 Irove_jlux. All rights reserved.",
+    "description": "Simple Spotfy CLient ",
+    "mainStars": "4",
+    "ratingNumber": "4.1",
+    "ratingsCount": "53",
+    "size": "98.1 MB",
+    "ageRating": "Everyone",
+    "imgUrl" : "https://rwstoremasterserver.vercel.app/data/images/ReSpot/png",
+    "pageimg1": "",
+    "pageimg2": "",
+    "pageimg3": "",
+    "downloadUri" : "https://rwstoremasterserver.vercel.app/data/appxs/ReSpot_1.0.0.1_AnyCPU_Debug.appx"
+
+}

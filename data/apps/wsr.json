@@ -1,0 +1,10 @@
+{
+    "displayname" : "Windows Store ReWorked (RwStore-Classic)",
+    "productType" : "app",
+    "category" : "Mods",
+    "mainStars": "5",
+    "ratingNumber": "Rework",
+    "ratingsCount": "Rework",
+    "imgUrl" : "https://rwstoremasterserver.vercel.app/data/images/WinStore.png",
+    "downloadUri" : "https://rwstoremasterserver.vercel.app/data/appxs/Rework.ReworkStoreClassicRelease1.appx"
+}
