@@ -1,0 +1,30 @@
+{
+  "name": "RwStoreMasterServer",
+  "version": "3.0.0",
+  "description": "RwStoreMasterServer",
+  "main": "src/server.js",
+  "scripts": {
+    "start":     "node src/server.js",
+    "dev":       "node src/server.js",
+    "dev:env":   "npx dotenv -e .env node src/server.js",
+    "gen-cert":  "bash scripts/generate-self-signed.sh"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "dependencies": {
+    "cors":               "^2.8.5",
+    "express":            "^4.18.2",
+    "express-rate-limit": "^6.11.2",
+    "helmet":             "^7.1.0",
+    "node-fetch":         "^2.7.0"
+  },
+  "devDependencies": {
+    "dotenv-cli": "^7.3.0"
+  },
+  "keywords": [
+    "rework-store",
+    "master-server"
+  ],
+  "license": "YoNi"
+}
